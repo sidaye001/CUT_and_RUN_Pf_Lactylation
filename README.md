@@ -1,5 +1,5 @@
 # CUT_and_RUN_Pf_Lactylation
-**This repository is to show all the analysis of CUT&RUN data for Lactylation epigenetic markers in Plasmodium falciparum.The analysis are as follows:**
+**This repository is to show all the analysis of CUT&RUN data for Lactylation epigenetic markers panKla and H4K12la as well as H3K4me3 and H4K12ac in Plasmodium falciparum under 8mM and 0.5mM lactylation treatment at rings, troph and schizont stages.The analysis are as follows:**
 
 - Preprocessing steps
 - Macs2 pipeline to call peaks
